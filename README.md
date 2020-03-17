@@ -18,4 +18,4 @@
 3.添加功能/删除功能
 
 ## 预览图
-![](https://j1109053660.oss-cn-hangzhou.aliyuncs.com/img/20200317094417.png)
+![](https://blog.qqwwqq.top/images/dh.uuppp.top.png)
