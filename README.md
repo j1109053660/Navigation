@@ -18,4 +18,4 @@
 3.添加功能/删除功能
 
 ## 预览图
-![](https://blog.qqwwqq.top/images/dh.uuppp.top.png)
+![](dh.png)
