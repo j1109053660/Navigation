@@ -1,5 +1,3 @@
-# Navigation
-Personal navigation for your own use
 
 ## 仿百度导航
 
@@ -20,4 +18,5 @@ Personal navigation for your own use
 3.添加功能/删除功能
 
 预览图
-![](https://j1109053660.oss-cn-hangzhou.aliyuncs.com/img/20200317093135.png)
+![](https://j1109053660.oss-cn-hangzhou.aliyuncs.com/img/20200317094417.png)
+
