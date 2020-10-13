@@ -1,21 +1,23 @@
+# Custom-navigation-static
 
-## 仿百度导航
+#### 介绍
+创建HTTP静态代码的简单nav导航网页，
+利用jquery-ui插件进行分栏显示
+将自己常用的超链接添加到网站上便于工作和学习。
 
-适合自己的个人导航
 
-自己可以折腾
 
-重点目前只是使用了jq_UI功能中的分栏
 
-其他效果有空再搞
+#### 使用说明
 
-纯静态网页
-使用语言：HTML+JQ
+1.  git clone https://gitee.com/phpfunny/custom-static-navigation.git
+2.  将‘’custom-static-navigation“文件夹上传到你的web服务器上
+3.  配置web服务器域名
 
-## 未来添加功能：
-1.双击背景图片（隐藏|展示）tabs标签
-2.行间距展示优化
-3.添加功能/删除功能
+#### 参与贡献
 
-## 预览图
-![](dh.png)
+--
+
+#### 预览地址
+
+https://phpfunny.gitee.io/custom-static-navigation
